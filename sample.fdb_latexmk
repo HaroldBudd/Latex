@@ -1,0 +1,27 @@
+# Fdb version 3
+["dvipdf"] 1682495735 "sample.dvi" "sample.pdf" "sample" 1682495735
+  "sample.dvi" 1682495735 3068 7da6abf0dbe37daeddc4730899276fda "latex"
+  (generated)
+  "sample.pdf"
+["latex"] 1682495734 "sample.tex" "sample.dvi" "sample" 1682495735
+  "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/standard/goth10.tfm" 1463434352 1196 5981e79c37b2cfd27b3612a6783cd4b6 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm" 1463434352 1196 1be730212205a270378fba11a44765dc ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm" 1463434352 856 7404843a5f798859944d7973a47821d5 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm" 1463434352 856 39c171483fe1bb7d0e1368980c0c205b ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti10.tfm" 1136768653 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmti7.tfm" 1136768653 1492 86331993fe614793f5e7e755835c31c5 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls" 1636758526 20144 8a7de377ae7a11ee924a7499611f5a9d ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo" 1636758526 8448 96f18c76bf608a36ee6fbf021ac1dd32 ""
+  "/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-dvips.def" 1644269979 35666 542d7d1651a3e3c984a42ed032a045c3 ""
+  "/usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf" 1646502317 40171 cdab547de63d26590bebb3baff566530 ""
+  "/usr/local/texlive/2022/texmf-var/web2c/eptex/platex.fmt" 1678324683 2827147 e1ae3f34bb7aea2b38cd3b9cfd64e923 ""
+  "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
+  "sample.aux" 1682495735 76 539eb20b72110af9e2d54522548f0d58 "latex"
+  "sample.tex" 1682495734 2380 b773ef932211cd1b8c3528dcb886cc78 ""
+  (generated)
+  "sample.aux"
+  "sample.dvi"
+  "sample.log"
